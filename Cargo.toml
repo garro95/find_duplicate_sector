@@ -1,0 +1,8 @@
+[package]
+name = "find_duplicate_sector"
+version = "0.1.0"
+authors = ["Gianmarco Garrisi <gianmarcogarrisi@tutanota.com>"]
+license = "GPL-3.0"
+
+[dependencies]
+quicli = "0.2"
