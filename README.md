@@ -7,6 +7,9 @@ It may be useful if you want to find the first duplicated sector in a partition,
 for example to fix an error like [this](https://askubuntu.com/questions/327509/gparted-freeze-during-ntfs-partition-resize).
 It should be faster and more ergonomc then the script suggested by the author of the post.
 
+# DISCLAIMER
+I did not test this program. I think it is correct, but the result may in fact be wrong.
+
 # Usage
 To use the app you need to [install](https://www.rust-lang.org/en-US/install.html)
 the Rust stable toolchain on your device and git or a zip archive manager.
